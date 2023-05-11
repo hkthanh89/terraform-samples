@@ -1,0 +1,1 @@
+This template uses sample structures, files.
